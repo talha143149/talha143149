@@ -33,8 +33,8 @@
 ## 🏆 GitHub Stats
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=talha143149&show_icons=true&theme=radical"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha143149&layout=compact&theme=radical"></td>
+    <td><a href="https://github.com/talha143149"><img src="https://github-readme-stats.vercel.app/api?username=talha143149&show_icons=true&theme=radical"></a></td>
+    <td><a href="https://github.com/talha143149"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha143149&layout=compact&theme=radical"></a></td>
   </tr>
 </table>
 
@@ -44,15 +44,4 @@
 <table>
   <tr>
     <td>🔹 <a href="https://github.com/talha143149/ERP-Project">ERP System</a> <br> Full-stack enterprise resource planning system.</td>
-    <td>🔹 <a href="https://github.com/talha143149/Portfolio">Portfolio Website</a> <br> Personal website showcasing projects and skills.</td>
-  </tr>
-  <tr>
-    <td>🔹 <a href="https://github.com/talha143149/Website-Project">Website Development</a> <br> Business and personal websites built with WordPress.</td>
-    <td>🔹 <a href="https://github.com/talha143149/Microservices-Architecture">Microservices Project</a> <br> Scalable distributed system.</td>
-  </tr>
-</table>
-
----
-
-## 📢 Let's Connect!  
-💬 Always open to discussions on tech, software development, and collaboration! 🚀  
+    <td>🔹 <a href="https://github.com/talha143149/Portfolio">Portfolio Website</a> <br> Personal website showcasing projects and skills
