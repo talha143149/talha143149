@@ -6,8 +6,7 @@
 🔹 Creator of ERP solutions for multinational companies.  
 
 📫 **Reach Me**  
-📧 talhajavedawan7@.com  
-📱 +92 335-1592560  
+📧 talhajavedawan7@.com   
 🌐 [LinkedIn](https://www.linkedin.com/in/talha-javed-013319173/)  
 
 ---
